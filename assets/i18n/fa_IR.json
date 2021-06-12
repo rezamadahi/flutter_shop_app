@@ -1,0 +1,75 @@
+{
+  "login_page": {
+    "login": "ورود",
+    "sign_up": "ثبت نام",
+    "forget_password": "رمز عبور خود را فراموش کرده اید؟",
+    "username": "نام کاربری",
+    "password": "رمز عبور",
+    "empty_username": "نام کاربری نمی تواند خالی باشد",
+    "empty_password": "رمز عبور نمی تواند خالی باشد",
+    "password_length": "کلمه عبور باید بیشتر از 6 کاراکتر باشد",
+    "wrong_acount": "نام کاربری یا کلمه عبور صحیح نمی باشد"
+  },
+  "sign_up_page": {
+    "sign_up": "ثبت نام",
+    "empty_username": "نام کاربری نمی تواند خالی باشد",
+    "username": "نام کاربری",
+    "empty_password": "رمز عبور نمی تولند خالی باشد",
+    "password": "رمز عبور",
+    "password_length": "طول کلمه عبور نمی تواند کمتر از 6 کاراکتر باشد",
+    "password_match": "کلمه عبور یکسان نمی باشد",
+    "confirm_password": "تایید کلمه عبور",
+    "empty_full_name": "نام خود را وارد کنید",
+    "full_name": "نام و نام خانوادگی",
+    "empty_email": "ایمیل نمی تواند خالی باشد",
+    "email": "ایمیل",
+    "empty_phone": "شماره تلفن نمی تواند خالی باشد",
+    "phone_number": "شماره تلفن",
+    "next_button": "بعدی",
+    "empty_address": "آدرس نمی تواند خالی باشد",
+    "address": "آدرس",
+    "gender": "جنسیت",
+    "male": "مرد",
+    "female": "زن",
+    "back_button": "قبلی",
+    "confirm_button": "تایید"
+  },
+  "drawer_page": {
+    "home_button": "صفحه اصلی",
+    "favourites": "علاقه مندی ها",
+    "shopping_cart": "سبد خرید",
+    "language": "زبان",
+    "english_language": "انگلیسی",
+    "persian_language": "فارسی",
+    "admin_panel": "پنل مدیریت",
+    "add_product": "اضافه کردن محصول",
+    "tag_list": "تگ ها",
+    "log_out_button": "خروج"
+  },
+  "appbar_page": {
+    "search": "جستجو...",
+    "tag_title": "تگ ها",
+    "products_title": "محصولات"
+  },
+  "admin_panel_page": {
+    "price": "قیمت",
+    "product_description": "توضیحات",
+    "product_finished": "عدم موجودی",
+    "product_quantity": "تعداد",
+    "product_disable": "غیرفعال"
+  },
+  "product_list_page": {
+    "product_title": "محصولات",
+    "product_price": "قیمت",
+    "product_description": "توضیحات",
+    "product_finished": "عدم موجودی",
+    "product_quantity": "تعداد",
+    "add_product": "اضافه کردن محصول",
+    "edit_product": "ویرایش محصول",
+    "product_name_empty": "نام محصول را وارد کنید",
+    "product_title_field": "عنوان محصول",
+    "product_description_field": "توضیحات محصولات",
+    "product_tags": "تگ محصول",
+    "product_quantity_empty": "تعداد محصول را وارد کنید."
+  }
+}

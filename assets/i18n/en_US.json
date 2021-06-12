@@ -1,0 +1,75 @@
+{
+  "login_page": {
+    "login": "Login",
+    "sign_up": "Sign up",
+    "forget_password": "Forget your password?",
+    "username": "Username",
+    "password": "Password",
+    "empty_username": "username must be filled",
+    "empty_password": "Password can not be empty",
+    "password_length": "Password must be more than 6",
+    "wrong_acount": "Wrong username or password"
+  },
+  "sign_up_page": {
+    "sign_up": "Sign Up",
+    "empty_username": "Username must be filled",
+    "username": "Username",
+    "empty_password": "password can not be empty",
+    "password": "Password",
+    "password_length": "Password must be more than 6",
+    "password_match": "Passwords not match!!",
+    "confirm_password": "Confirm Password",
+    "empty_full_name": "Name must be filled",
+    "full_name": "FullName",
+    "empty_email": "Email must be filled",
+    "email": "Email",
+    "empty_phone": "Phone must be filled",
+    "phone_number": "Phone Number",
+    "next_button": "Next",
+    "empty_address": "Address must be filled",
+    "address": "Address",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "back_button": "Back",
+    "confirm_button": "Confirm"
+  },
+  "drawer_page": {
+    "home_button": "Home",
+    "favourites": "Favourites",
+    "shopping_cart": "Shopping Cart",
+    "language": "Language",
+    "english_language": "English",
+    "persian_language": "Persian",
+    "admin_panel": "Admin Panel",
+    "add_product": "Add Product",
+    "tag_list": "Tags",
+    "log_out_button": "Log Out"
+  },
+  "appbar_page": {
+    "search": "Search...",
+    "tag_title": "Tags",
+    "products_title": "Products"
+  },
+  "admin_panel_page": {
+    "price": "Price",
+    "product_description": "Description",
+    "product_finished": "Product finished",
+    "product_quantity": "Quantity",
+    "product_disable": "InActive"
+  },
+  "product_list_page": {
+    "product_title": "Products",
+    "product_price": "Price",
+    "product_description": "Description",
+    "product_finished": "Product finished",
+    "product_quantity": "Quantity",
+    "add_product": "Add product",
+    "edit_product": "Edit product",
+    "product_name_empty": "Insert the name of product.",
+    "product_title_field": "Product Title",
+    "product_description_field": "Product Description",
+    "product_tags": "Product Tags",
+    "product_quantity_empty": "Insert the quantity of product."
+  }
+}
